@@ -1,0 +1,2 @@
+Taruh video di sini dengan nama: video1.mp4 (sampai video9). Format paling aman: MP4 H.264 + AAC.
+Di admin: Latar = Video, lalu pilih "Video 1".
